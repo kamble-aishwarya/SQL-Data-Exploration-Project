@@ -81,5 +81,4 @@ Raw COVID-19 data is large, complex, and contains missing or inconsistent values
 - **Key Metrics:** Cases, deaths, population, vaccinations  
 
 ---
-- Create automated dashboards
-- Add trend analysis and forecasting
+
